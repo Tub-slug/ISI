@@ -87,3 +87,4 @@ is_valid = puzzle.check_cages()
 is_unique = puzzle.is_valid_grid()
 print(is_valid)
 print(is_unique)
+#test 
